@@ -10,6 +10,7 @@ A simple supermarket billing system implemented in C++ that allows:
 - Receipt generation with discounts.
 - Secure admin login
 
+
 ## File Structure
 - `src/`: Contains source files (`main.cpp`, `shopping.cpp`, `shopping.h`).
 - `database.txt`: Stores product data.
