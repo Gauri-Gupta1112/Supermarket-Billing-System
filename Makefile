@@ -4,6 +4,7 @@ SRC = src/main.cpp src/shopping.cpp
 OBJ = main.o shopping.o
 BIN = supermarket
 
+
 all: $(BIN)
 
 $(BIN): $(SRC)

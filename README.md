@@ -5,6 +5,7 @@ A simple supermarket billing system implemented in C++ that allows:
 - **Buyer Features**: View products, generate receipts.
 - Data persistence using a text file.
 
+
 ## Features
 - Product management (add, edit, delete).
 - Receipt generation with discounts.

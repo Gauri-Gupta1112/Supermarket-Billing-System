@@ -130,6 +130,7 @@ void shopping::edit() {
 }
 
 void shopping::rem() {
+    
     // Code for removing products...
 }
 
